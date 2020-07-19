@@ -1,2 +1,2 @@
 # facebook-2fa-decrypt
-Decrypt Facebook 2FA with Authentication Code
+Decrypt Facebook 2FA (Two-factor authentication) with Authentication Code
